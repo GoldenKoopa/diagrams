@@ -47,11 +47,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="" tags="delete" id="ULqw2vqMiP73-sCd1-hy-3">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;rotation=90;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;portConstraintRotation=0;movableLabel=0;" parent="ULqw2vqMiP73-sCd1-hy-2" vertex="1">
-            <mxGeometry x="497" y="614" width="16" height="26" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="ULqw2vqMiP73-sCd1-hy-1" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;direction=south;" parent="1" vertex="1">
           <mxGeometry x="572" y="783" width="20" height="16" as="geometry" />
         </mxCell>
